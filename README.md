@@ -1,1 +1,1 @@
-# NexusConnect-iOS
+# NexusConnectSDK-iOS
