@@ -1,0 +1,47 @@
+# Build settings
+# Update this with your project's info
+title: "NexusConnect UHF SDK"
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+logo: "/images/infinite-peripherals-logo.png"
+
+# Color scheme
+color_scheme: ipc
+
+search:
+  # Split pages into sections that can be searched individually
+  # Supports 1 - 6, default: 2
+  heading_level: 2
+  # Maximum amount of previews per search result
+  # Default: 3
+  previews: 3
+  # Maximum amount of words to display before a matched word in the preview
+  # Default: 5
+  preview_words_before: 2
+  # Maximum amount of words to display after a matched word in the preview
+  # Default: 10
+  preview_words_after: 3
+  # Set the search token separator
+  # Default: /[\s\-/]+/
+  # Example: enable support for hyphenated search words
+  tokenizer_separator: /[\s/]+/
+  # Display the relative url in search results
+  # Supports true (default) or false
+  rel_url: true
+  # Enable or disable the search button that appears in the bottom right corner of every page
+  # Supports true or false (default)
+  button: false
+
+# Aux links for the upper right navigation
+# Update this with your project's info
+aux_links:
+  "NexusConnectSDK-iOS Github":
+    - "https://github.com/InfinitePeripherals/NexusConnect-iOS"
+aux_links_new_tab: false
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer
+footer_content: "Copyright &copy; 2025 Infinite Peripherals Inc."

@@ -1,0 +1,188 @@
+{"0": {
+    "doc": "Android",
+    "title": "Android API Docs",
+    "content": " ",
+    "url": "http://localhost:4000/api-docs/android.html#android-api-docs",
+    "relUrl": "/api-docs/android.html#android-api-docs"
+  },"1": {
+    "doc": "Android",
+    "title": "Android",
+    "content": " ",
+    "url": "http://localhost:4000/api-docs/android.html",
+    "relUrl": "/api-docs/android.html"
+  },"2": {
+    "doc": "Android",
+    "title": "Android Change Log",
+    "content": " ",
+    "url": "http://localhost:4000/change-log/android.html#android-change-log",
+    "relUrl": "/change-log/android.html#android-change-log"
+  },"3": {
+    "doc": "Android",
+    "title": "Android",
+    "content": " ",
+    "url": "http://localhost:4000/change-log/android.html",
+    "relUrl": "/change-log/android.html"
+  },"4": {
+    "doc": "Android",
+    "title": "Getting Started with Android",
+    "content": "Learn how to set up your Android app to use QuantumPay to process payment transactions. ",
+    "url": "http://localhost:4000/getting-started/android.html#getting-started-with-android",
+    "relUrl": "/getting-started/android.html#getting-started-with-android"
+  },"5": {
+    "doc": "Android",
+    "title": "Android",
+    "content": " ",
+    "url": "http://localhost:4000/getting-started/android.html",
+    "relUrl": "/getting-started/android.html"
+  },"6": {
+    "doc": "API Docs",
+    "title": "API Docs",
+    "content": "Select platform below to view its API Docs. ",
+    "url": "http://localhost:4000/api-docs",
+    "relUrl": "/api-docs"
+  },"7": {
+    "doc": "Change Log",
+    "title": "Change Log",
+    "content": "Select platform below to view its Change Log. ",
+    "url": "http://localhost:4000/change-log",
+    "relUrl": "/change-log"
+  },"8": {
+    "doc": "QuantumPay Devices",
+    "title": "QuantumPay Devices",
+    "content": "Infinite Peripherals offers a range of mobile &amp; fixed Point of Interaction devices that feature a variety of secure payment options from MSR to EMV Contactless, ensuring frictionless transactions anywhere, anytime. QuantumPay Reader Compact card readers transform any iOS or Android device into a payment terminal, can process secure payments via contactless and chip cards. The optional magnetic stripe card reader variant adds little change to the dimensions and outline. QuantumPay Pin The QuantumPay Pin family of devices offers a sizeable colorful touch screen display that fits in the palm of your hand and supports all payment modes. The magnetic stripe, EMV Chip &amp; PIN, and Contactless payments plus Bluetooth connectivity to POS solutions deliver a future proof solution. QuantumPay Connected The QuantumPay Connected family of devices allows mobile workers to extend the capabilities of their iPhones® and iPads® into a powerful point-of-sale solution. Stable and secure passthrough connectivity via MFI certified Lightning® connector ensures a transaction is never missed. The QPC family of devices offers support for magnetic stripe, EMV contactless card payment technologies with a 2D barcode scanner option. QuantumPay Kiosk Introducing the first brandable modular kiosk to fit Android or iOS tablets. Quickly implement payment processing using our suite of payment peripherals and our cloud based, PCI compliant solution. QuantumPay Pro Introducing QuantumPay PRO, our first complete payment solution for Android OS. With expanded payment options, optimized 5-inch touchscreen, and an integrated barcode scanner, the QuantumPay PRO increases workflow mobility and device flexibility. ",
+    "url": "http://localhost:4000/devices",
+    "relUrl": "/devices"
+  },"9": {
+    "doc": "Getting Started",
+    "title": "Getting Started",
+    "content": "QuantumPay supports native iOS, Android, and Xamarin. Select your preferred platform below to see it’s Getting Started guide. ",
+    "url": "http://localhost:4000/getting-started",
+    "relUrl": "/getting-started"
+  },"10": {
+    "doc": "Home",
+    "title": "QuantumPay SDK",
+    "content": "Integration with your Point of Sale solution is made simple with the QuantumPay SDK and its support for all major mobile developer platforms. Download QuantumPay SDK Visit Our Website . ",
+    "url": "http://localhost:4000/#quantumpay-sdk",
+    "relUrl": "/#quantumpay-sdk"
+  },"11": {
+    "doc": "Home",
+    "title": "Why QuantumPay SDK?",
+    "content": ". | Supports both iOS and Android devices | Works with minimal configuration out of the box | Uses headless APIs so POS developers retain full control of application user interface | Conforms to payment security standards and best practices | Support for store &amp; forward payment processing | . ",
+    "url": "http://localhost:4000/#why-quantumpay-sdk",
+    "relUrl": "/#why-quantumpay-sdk"
+  },"12": {
+    "doc": "Home",
+    "title": "QuantumPay SDK Libraries",
+    "content": "QuantumPay SDK is comprised of 3 separate libraries: QuantumPayClient, QuantumPayMobile and QuantumPayPeripheral. By separating functionality into layers, you have the ability to use only what you need for your specific POS solution. You can chose just one, or up to all three for maximum functionality. QuantumPayClient . QuantumPayClient handles communication with web APIs. This is the library you use to configure your server information/credentials and handle the results of your sent transactions. If you want your application to work with different peripherals or not use our payment engine, you could still use this library to send transactions to QuantumPay. QuantumPayMobile . QuantumPayMobile is the library that handles payment engine operations. It is in charge of controlling the payment flow and communicating back the state of the transaction back to the host app. This is the library you use to build transactions and utilize store &amp; forward for offline operation. QuantumPayPeripheral . QuantumPayPeripheral manages the payment device itself. This library allows you define your own payment device or if you are using an Infinite Peripherals payment device utilize our predefined classes. This is also where you manage the connection to the device, whether its Bluetooth or directly connected. By keeping this separate you are able to swap out peripheral implementations depending on what payment device you are using. ",
+    "url": "http://localhost:4000/#quantumpay-sdk-libraries",
+    "relUrl": "/#quantumpay-sdk-libraries"
+  },"13": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"14": {
+    "doc": "iOS",
+    "title": "iOS API Docs (Swift)",
+    "content": "Select a framework below to view its API reference. | QuantumPayClient | QuantumPayMobile | QuantumPayPeripheral | . ",
+    "url": "http://localhost:4000/api-docs/ios.html#ios-api-docs-swift",
+    "relUrl": "/api-docs/ios.html#ios-api-docs-swift"
+  },"15": {
+    "doc": "iOS",
+    "title": "Download",
+    "content": "These docs were created with DocC which allows you to download the .doccarchive files and view them locally within Xcode (requires Xcode 13). | QuantumPayClient | QuantumPayMobile | QuantumPayPeripheral | . ",
+    "url": "http://localhost:4000/api-docs/ios.html#download",
+    "relUrl": "/api-docs/ios.html#download"
+  },"16": {
+    "doc": "iOS",
+    "title": "iOS",
+    "content": " ",
+    "url": "http://localhost:4000/api-docs/ios.html",
+    "relUrl": "/api-docs/ios.html"
+  },"17": {
+    "doc": "iOS",
+    "title": "Getting Started with iOS",
+    "content": "Learn how to set up your iOS app to process payment transactions using QuantumPay. | Requirements | Project Setup . | Adding the QuantumPay SDKs | Installing ObjectBox | Turn off Bitcode support | Add MFi protocols to Info.plist | Add Privacy entries to Info.plist | . | Processing a Payment . | Initialize the SDKs | Create Payment Device | Create Payment Engine | Setup Handlers | Connect to Payment Device | Create an Invoice | Create a Transaction | Start Transaction | Transaction Receipt | Disconnect Payment Device | . | Scanning a Barcode | . ",
+    "url": "http://localhost:4000/getting-started/ios.html#getting-started-with-ios",
+    "relUrl": "/getting-started/ios.html#getting-started-with-ios"
+  },"18": {
+    "doc": "iOS",
+    "title": "Requirements",
+    "content": ". | SDKs . | QuantumPayClient.xcframework | QuantumPayMobile.xcframework | QuantumPayPeripheral.xcframework | QuantumSDK.xcframework | ObjectBox (CocoaPods) | . | Xcode 11+ / iOS 13+ / Swift 5.0+ | Infinite Peripherals payment device | Infinite Peripherals developer key for your app bundle ID | Payment related credentials: username/email, password, service name and tenant key | . *If you are missing any of these items, please contact Infinite Peripherals . ",
+    "url": "http://localhost:4000/getting-started/ios.html#requirements",
+    "relUrl": "/getting-started/ios.html#requirements"
+  },"19": {
+    "doc": "iOS",
+    "title": "Project Setup",
+    "content": "Before we jump into the code we need to make sure your Xcode project is properly configured to use the QuantumPay frameworks. Follow the steps below to get you set up. Adding the QuantumPay SDKs . | Open Xcode and create a new folder to put the frameworks in. If you have a place for frameworks already you can skip this. | Drag the QuantumPay frameworks into your folder. | . | Make sure when prompted you enable “Copy items if needed”. | . | Go to your project’s General tab and scroll down to the Frameworks, Libraries and Embedded Content section. For each framework we just added set the Embed field to “Embed &amp; Sign”. | . Installing ObjectBox . | In order to use the QuantumPay frameworks you will need to add ObjectBox to your project. Visit ObjectBox and follow the instructions to install ObjectBox to your project. | If your project is not using CocoaPods yet, it may be more helpful to start here ObjectBox - Detailed Instructions . | . Turn off Bitcode support . Go to your project’s Build Settings tab and set Enable Bitcode to “No”. The easiest way to find this setting is to use the search field in the top right. Add MFi protocols to Info.plist . Go to your project’s Info.plist file and add a new entry for “Supported external accessory protocols” using the following values. Note: in Xcode 13.0+ this has been moved to the “Info” tab in your project’s settings. com.datecs.pengine com.datecs.linea.pro.msr com.datecs.linea.pro.bar com.datecs.printer.escpos com.datecs.pinpad . Add Privacy entries to Info.plist . Also in your project’s Info.plist file we need to add the four (4) privacy tags listed below. You can enter any string value you want or copy what we have below. Note: in Xcode 13.0+ this has been moved to the “Info” tab in your project’s settings. \"Privacy - Bluetooth Always Usage Description\" \"Privacy - Bluetooth Peripheral Usage Description\" \"Privacy - Location When In Use Usage Description\" \"Privacy - Location Usage Description\" . ",
+    "url": "http://localhost:4000/getting-started/ios.html#project-setup",
+    "relUrl": "/getting-started/ios.html#project-setup"
+  },"20": {
+    "doc": "iOS",
+    "title": "Processing a Payment",
+    "content": "At this point, your Xcode project should be configured and ready to use the QuantumPay libraries. This next section will take you through some initial setup all the way to processing a payment. Initialize the SDKs . First, initialize the SDKs with valid keys provided by Infinite Peripherals. This is a required step before you are able to use other functions from the SDKs. If you do not have these keys yet, please contact Infinite Peripherals. // Create tenant let tenant = Tenant(hostKey: \"Host key\", tenantKey: \"Tenant key\") // Initialize QuantumPay InfinitePeripherals.initialize(developerKey: \"Developer key\", tenant: tenant) . Create Payment Device . Now initialize a payment device that matches the hardware you are using. The current supported payment devices are: QPC150, QPC250, QPP400, QPP450, QPR250, QPR300. Note that this step is different for payment devices that are connected with Bluetooth LE. | Initialize QPC150, QPC250 (Lightning connector) | . let paymentDevice = QPC250() . | Initialize QPP400, QPP450, QPR250, QPR300 (Bluetooth LE) by supplying its serial number so the PaymentEngine can search for and connect to it. On first connection, the app will prompt you to pair the device. Be sure to press “OK” when the pop-up is shown. To complete the pairing, if using a QPR device, press the small button on top of the device opposite the power button. If using a QPP device, press the green check mark button on the bottom right of the keypad. | . // The device serial number is found on the label on the device. let paymentDevice = QPR250(serial: \"2320900026\") . Create Payment Engine . The payment engine is the main object that you will interact with to send transactions and receive callbacks. do { try PaymentEngine.builder() // Set server environment to either test or production .server(server: ServerEnvironment.test) // Credentials used to register hardware devices .registrationCredentials(username: \"username\", password: \"password\") // Using the device we created earlier, set the peripheral and capabilities // Capabilities are the card input methods (e.g.: Mag stripe, contactless, chip). If you don't want the full array of capabilities provided by the device object, you can pass an array of select input methods only.addPeripheral(peripheral: paymentDevice, capabilities: paymentDevice.availableCapabilities!, autoConnect: false) // The Point of Sale ID of the device/app. This posID should be unique for each instance of the app. This is used by the database to access saved transactions.posID(posID: \"posId\") // Amount of time after transaction has started to wait for card to be presented .transactionTimeout(timeoutInSeconds: 30) // StoreAndForwardMode for submitting transactions to server .storeAndForward(mode: .whenOffline, autoUploadInterval: 60) // If this build function is successful, the PaymentEngine will be passed in the completion block.build(handler: { (engine) in // Save the created engine object self.pEngine = engine }) } catch { print(\"Error creating payment engine: \\(error.localizedDescription)\") } . Setup Handlers . Once the PaymentEngine is created, you can use it’s handlers to track the operation. The PaymentEngine handlers will get called throughout the payment process and will return you the current state of the transaction. You can set these handlers in the completion block of the previous step. ConnectionStateHandler will get called when the connection state of the payment device changes between connecting, connected, and disconnected. It is important to make sure your device is connected before attempting to start a transaction. self.pEngine!.setConnectionStateHandler(handler: { (peripheral, connectionState) in // Handle connection state }) . TransactionResultHandler will get called after the transaction is processed. The TransactionResult status will disclose whether the transaction was approved or declined. self.pEngine!.setTransactionResultHandler(handler: { (transactionResult) in // Handle the transaction result // transactionResult.status provides the transaction result // transactionResult.receipt provides the online receipt when transactionResult.state == .approved }) . TransactionStateHandler will get called when the transaction state changes. The TransactionState represents a unique state in the workflow of capturing a transaction. These include “waitingForCard, waitingForPin, onlineAuthorization, etc. self.pEngine!.setTransactionStateHandler(handler: { (peripheral, transaction, transactionState) in // Handle transaction state }) . PeripheralStateHandler will get called when the state of the peripheral changes during the transaction process. The PeripheralState represents the current state of the peripheral as reported by the peripheral device itself. These include “idle”, “ready”, “contactCardInserted” etc. self.pEngine!.setPeripheralStateHandler(handler: { (peripheral, state) in // Handle peripheral state }) . PeripheralMessageHandler will get called when there is new message about the transaction throughout the process. The peripheral message tells you when to present the card, if the card read is successful or failed, etc. This usually indicates something that should be displayed in the user interface. self.pEngine!.setPeripheralMessageHandler(handler: { (peripheral, message) in // Handle peripheral message }) . Connect to Payment Device . Now that your payment engine is configured and your handlers are set up, lets connect to the payment device. Please make sure the device is attached and turned on. We need to connect to the payment device prior to starting a transaction. The connection state will be returned to the ConnectionStateHandler that we set up previously. If you didn’t set autoConnect when creating the payment engine, you will need to call connect() before starting a transaction. self.pEngine!.connect() . Create an Invoice . Time to create an invoice. This invoice object holds information about a purchase order and the items in the order. let invoice = try self.pEngine! // Build invoice with a reference number. This can be anything.buildInvoice(reference: invoiceNum) // Set company name .companyName(companyName: \"ACME SUPPLIES INC.\") // Set purchase order reference. This can be anything to identify the order.purchaseOrderReference(reference: \"P01234\") // A way to add item to the invoice .addItem(productCode: \"SKU1\", description: \"Discount Voucher for Return Visit\", unitPrice: 0) // Another way to add item to the invoice .addItem { (itemBuilder) -&gt; InvoiceItemBuilder in return itemBuilder .productCode(\"SKU2\") .productDescription(\"In Store Item\") .saleCode(SaleCode.S) .unitPrice(1.00) .quantity(1) .unitOfMeasureCode(.Each) .calculateTotals() } // Calculate totals on the invoice .calculateTotals() // Builds invoice instance with the provided values .build() . Create a Transaction . The transaction object holds information about the invoice, the total amount for the transaction and the type of the transaction (e.g.: sale, auth, refund, etc.) . let transaction = try self.pEngine!.buildTransaction(invoice: invoice) // The transaction is of type Sale .sale() // The total amount of for all invoices .amount(1.00, currency: .USD) // A unique reference to the transaction. This cannot be reused.reference(\"A reference to this transaction\") // Date and time of the transaction .dateTime(Date()) // The service code generated by Infinite Peripherals .service(\"service\") // Some information about the transaction that you want to add .metaData([\"orderNumber\" : invoiceNum, \"delivered\" : \"true\"]) // Build the transaction .build() . Start Transaction . Now that everything is ready we can start the transaction and take payment. Watch the handler messages and status updates to track the transaction throughout the process. try self.pEngine!.startTransaction(transaction: txn) { (transactionResult, transactionResponse) in // Handle the transaction result and response // transactionResult.status discloses the state of the transaction after being processed. See `TransactionResultStatus` for more info. // transactionResponse discloses the server's response for the submitted transaction. If an error occurs, the object will contain the // error's information. See `TransactionResponse` for more info. // .... } . Transaction Receipt . Once the transaction is completed and approved, the receipt is sent to the TransactionResultHandler callback. // The url for customer receipt transactionResult.receipt?.customerReceiptUrl // The url for merchant receipt transactionResult.receipt?.merchantReceiptUrl . Disconnect Payment Device . Now that the transaction is complete you are free to disconnect the payment device if you wish. Please note that this should not be called before or during the transaction process. self.pEngine!.disconnect() . ",
+    "url": "http://localhost:4000/getting-started/ios.html#processing-a-payment",
+    "relUrl": "/getting-started/ios.html#processing-a-payment"
+  },"21": {
+    "doc": "iOS",
+    "title": "Scanning a Barcode",
+    "content": "Some of our payment devices also support barcode scanning (e.g., QPC150, QPC250). In order to receive the barcode data, you will need to set your class to conform to the protocol IPCDTDeviceDelegate and add the class instance as a delegate that will receive the data when scanned. Note that the scan button will not work if it is not properly connected to the application. // Add class instance as delegate self.paymentDevice.device.addDelegate(self) . Once a barcode is scanned, it will be sent to this delegate method: . func barcodeData(_ barcode: String!, type: Int32) { // Handle the barcode } . ",
+    "url": "http://localhost:4000/getting-started/ios.html#scanning-a-barcode",
+    "relUrl": "/getting-started/ios.html#scanning-a-barcode"
+  },"22": {
+    "doc": "iOS",
+    "title": "iOS",
+    "content": " ",
+    "url": "http://localhost:4000/getting-started/ios.html",
+    "relUrl": "/getting-started/ios.html"
+  },"23": {
+    "doc": "iOS",
+    "title": "iOS Change Log",
+    "content": "1.0.10 - 2021-08-06 . | Added JCB scheme | Add Merchant Override Floor Limit for Acceptable Risk on Offline EMV Transactions | . ",
+    "url": "http://localhost:4000/change-log/ios.html#ios-change-log",
+    "relUrl": "/change-log/ios.html#ios-change-log"
+  },"24": {
+    "doc": "iOS",
+    "title": "iOS",
+    "content": " ",
+    "url": "http://localhost:4000/change-log/ios.html",
+    "relUrl": "/change-log/ios.html"
+  },"25": {
+    "doc": "Xamarin",
+    "title": "Xamarin Change Log",
+    "content": "1.0.44 - 2021-10-13 . | Implemented EMV requirement to avoid disclosing whether the transaction was processed online or offline | Extra expiry date validations for bad swipes | . ",
+    "url": "http://localhost:4000/change-log/xamarin.html#xamarin-change-log",
+    "relUrl": "/change-log/xamarin.html#xamarin-change-log"
+  },"26": {
+    "doc": "Xamarin",
+    "title": "Xamarin",
+    "content": " ",
+    "url": "http://localhost:4000/change-log/xamarin.html",
+    "relUrl": "/change-log/xamarin.html"
+  },"27": {
+    "doc": "Xamarin",
+    "title": "Getting Started with Xamarin",
+    "content": "Learn how to set up your Xamarin app to use QuantumPay to process payment transactions. ",
+    "url": "http://localhost:4000/getting-started/xamarin.html#getting-started-with-xamarin",
+    "relUrl": "/getting-started/xamarin.html#getting-started-with-xamarin"
+  },"28": {
+    "doc": "Xamarin",
+    "title": "Xamarin",
+    "content": " ",
+    "url": "http://localhost:4000/getting-started/xamarin.html",
+    "relUrl": "/getting-started/xamarin.html"
+  },"29": {
+    "doc": "Xamarin",
+    "title": "Xamarin API Docs",
+    "content": "Follow the link below to view the API reference. | Xamarin API Docs | . ",
+    "url": "http://localhost:4000/api-docs/xamarin.html#xamarin-api-docs",
+    "relUrl": "/api-docs/xamarin.html#xamarin-api-docs"
+  },"30": {
+    "doc": "Xamarin",
+    "title": "Xamarin",
+    "content": " ",
+    "url": "http://localhost:4000/api-docs/xamarin.html",
+    "relUrl": "/api-docs/xamarin.html"
+  }
+}
