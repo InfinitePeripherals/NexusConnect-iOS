@@ -49,7 +49,7 @@ nexusConnect.cleanup()
 ```
 
 ### Discover and Connect Devices
-NexusConnect UHF devices support Bluetooth discovery, making it easy to find and connect devices nearby.
+NexusConnect UHF devices support BLE pairing, making it easy to find and connect devices nearby.
 
 Start device discovery:
 ```swift
